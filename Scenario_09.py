@@ -3,6 +3,9 @@
 #     "List 3 benefits of Python for data science."
 # Handle cases where the response isn’t valid JSON.
 
+#####################################    ANSWER      #####################################
+
+
 
 import google.generativeai as genai      # Google Gemini API library
 import json                             # JSON handling tools (JavaScript Object Notation)
