@@ -2,6 +2,7 @@
 # Task: Write a prompt to summarize a news article into 2 sentences.
 # If the summary exceeds 50 words, truncate it to the nearest complete sentence.
 
+#####################################    ANSWER      #####################################
 
 
 def constrained_summary_prompt(article_text):       # Created Function.
