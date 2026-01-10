@@ -4,6 +4,9 @@
 # contains valid integer values for the "age" key. Return a list of invalid entries.
 
 
+#####################################    ANSWER      #####################################
+
+
 def validate_data(data): #Created a Function for Finds records with invalid age.
 
     invalid_entries = []
