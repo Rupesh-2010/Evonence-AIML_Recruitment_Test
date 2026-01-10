@@ -4,6 +4,10 @@
 # that returns the sum of numbers from 1 to n.
 
 
+#####################################    ANSWER     #####################################
+
+
+
 import time #imported time package from python Library.
 from functools import wraps
 
