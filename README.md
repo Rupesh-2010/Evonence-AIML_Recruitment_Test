@@ -1,8 +1,3 @@
-Here is your complete **README.md** file.
-Copy-paste this directly into your repository.
-
----
-
 # Evonence-AIML_Recruitment_Test 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
