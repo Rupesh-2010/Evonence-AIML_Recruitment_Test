@@ -7,7 +7,7 @@
 import google.generativeai as genai      # Google Gemini API library
 import json                             # JSON handling tools (JavaScript Object Notation)
 
-genai.configure(api_key='your_api_key_here')        # Enter your Gemini API key
+genai.configure(api_key='Enter your Gemini API key')        # Enter your Gemini API key
 
 model = genai.GenerativeModel('gemini-1.5-flash')   # Load the Gemini model (Version- gemini-1.5-flash)
 
