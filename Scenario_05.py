@@ -2,6 +2,11 @@
 # Task: Use GridSearchCV to find the best max_depth (values: [3, 5, 7])
 # and n_estimators (values: [50, 100]) for a Random Forest classifier.
 
+
+
+#####################################    ANSWER     #####################################
+
+
 from sklearn.ensemble import RandomForestClassifier # Random Forest tuning libraries
 from sklearn.model_selection import GridSearchCV    # Tool for hyperparameter tuning
 from sklearn.datasets import make_classification    # Creates sample classification data
