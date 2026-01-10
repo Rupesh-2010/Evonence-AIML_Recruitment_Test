@@ -7,6 +7,9 @@
 # Use Pandas and a skewness threshold of 0.5.
 
 
+#####################################    ANSWER     #####################################
+
+
 import pandas as pd #importing the Pandas library as pd
 from scipy.stats import skew    #It tells you whether your data is normal, left-skewed, or right-skewed.
 
