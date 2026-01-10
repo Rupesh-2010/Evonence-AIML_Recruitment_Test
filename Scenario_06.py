@@ -2,6 +2,11 @@
 # Task: Implement a custom metric weighted_accuracy where
 # class 0 has a weight of 1 and class 1 has a weight of 2.
 
+
+#####################################    ANSWER      #####################################
+
+
+
 import numpy as np  #importing the Pandas library as pd
 from sklearn.metrics import make_scorer # This Creates custom scoring metrixx
 
