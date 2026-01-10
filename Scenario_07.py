@@ -3,6 +3,9 @@
 # with random rotations (±20 degrees), horizontal flips, and zoom (0.2x).
 
 
+#####################################    ANSWER      #####################################
+
+
 import tensorflow as tf                  # TensorFlow main library imported
 from tensorflow.keras import layers           # Keras neural layers (not yet support Python 3.12 properly)
 
