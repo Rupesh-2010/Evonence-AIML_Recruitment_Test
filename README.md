@@ -11,7 +11,7 @@ This repository contains Python solutions for AI and machine learning recruitmen
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ Setup Instructions.
 
 ### 1️⃣ Clone the repository
 
