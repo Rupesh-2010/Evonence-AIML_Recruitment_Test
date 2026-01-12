@@ -146,7 +146,7 @@ Python is widely used in data science for its readability and rich libraries. It
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author.
 
 **Rupesh Desai**
 AI & Machine Learning Enthusiast
