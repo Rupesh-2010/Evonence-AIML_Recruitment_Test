@@ -39,7 +39,7 @@ pip install pandas numpy scikit-learn tensorflow google-generativeai scipy
 
 | Scenario    | Description                                              |
 | ----------- | -------------------------------------------------------- |
-| Scenario_01 | Data validation and error handling                       |
+| Scenario_001 | Data validation and error handling                       |
 | Scenario_02 | Logging decorator to measure function runtime            |
 | Scenario_03 | Missing value handling using skewness                    |
 | Scenario_04 | Text preprocessing (lowercase, remove symbols, tokenize) |
