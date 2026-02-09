@@ -5,7 +5,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 📌 About
+## 📌 About:-
 
 This repository contains Python solutions for AI and machine learning recruitment scenarios, demonstrating skills in data validation, preprocessing, model training, evaluation metrics, text processing, TensorFlow workflows, API usage, and real-world problem-solving techniques, suitable for interview preparation..
 
