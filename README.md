@@ -7,7 +7,7 @@
 
 ## 📌 About:-
 
-This repository contains Python solutions for AI and machine learning recruitment scenarios, demonstrating skills in data validation, preprocessing, model training, evaluation metrics, text processing, TensorFlow workflows, API usage, and real-world problem-solving techniques, suitable for interview preparation..
+This repository is contains Python solutions for AI and machine learning recruitment scenarios, demonstrating skills in data validation, preprocessing, model training, evaluation metrics, text processing, TensorFlow workflows, API usage, and real-world problem-solving techniques, suitable for interview preparation..
 
 ---
 
